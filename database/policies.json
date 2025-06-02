@@ -1,0 +1,67 @@
+{
+  "policies": [
+    {
+      "id": 1,
+      "title": "Sales Approval Policy",
+      "category": "Sales",
+      "description": "Guidelines for deal approvals based on contract value",
+      "key_points": [
+        "Deals under $50,000: Sales Rep can approve independently",
+        "Deals $50,000-$200,000: Requires Sales Manager approval",
+        "Deals over $200,000: Requires VP Sales and Finance Director approval",
+        "All contracts must be reviewed by Legal for deals over $100,000"
+      ],
+      "last_updated": "2024-01-15",
+      "owner": "Sarah Chen",
+      "related_forms": ["SALES-APPROVAL-01", "CONTRACT-REVIEW-02"]
+    },
+    {
+      "id": 2,
+      "title": "Discount Authorization Policy",
+      "category": "Sales",
+      "description": "Rules for offering discounts to customers",
+      "key_points": [
+        "Standard discount up to 10%: Sales Rep discretion",
+        "Discount 10-20%: Requires Sales Manager approval",
+        "Discount 20-30%: Requires Finance Director approval",
+        "Discount over 30%: Requires CEO approval",
+        "Volume discounts have separate guidelines - see Finance team"
+      ],
+      "last_updated": "2024-02-01",
+      "owner": "David Park",
+      "related_forms": ["DISCOUNT-REQUEST-01"]
+    },
+    {
+      "id": 3,
+      "title": "Contract Review Policy",
+      "category": "Legal",
+      "description": "Process for contract review and approval",
+      "key_points": [
+        "All non-standard contracts must be reviewed by Legal",
+        "Standard contracts can be used for deals under $50,000",
+        "Allow 2-3 business days for Legal review",
+        "Expedited review available for urgent deals (24 hours)",
+        "Red flags requiring immediate Legal consultation: liability caps, indemnification changes, IP ownership"
+      ],
+      "last_updated": "2024-01-20",
+      "owner": "Michael Rodriguez",
+      "related_forms": ["LEGAL-REVIEW-01", "CONTRACT-CHECKLIST-01"]
+    },
+    {
+      "id": 4,
+      "title": "Customer Data Protection Policy",
+      "category": "Compliance",
+      "description": "Guidelines for handling customer data",
+      "key_points": [
+        "Never share customer data outside the company",
+        "Use only approved tools for storing customer information",
+        "All customer communications must use company email",
+        "Report any data breaches immediately to IT and Legal",
+        "Complete annual data protection training"
+      ],
+      "last_updated": "2024-03-01",
+      "owner": "IT Security Team",
+      "mandatory": true
+    }
+  ]
+} 

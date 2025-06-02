@@ -1,0 +1,130 @@
+{
+  "protocols": [
+    {
+      "id": 1,
+      "name": "Enterprise Deal Closing Process",
+      "category": "Sales",
+      "description": "Step-by-step guide for closing enterprise deals",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Initial Customer Contact",
+          "actions": [
+            "Log opportunity in CRM within 24 hours",
+            "Assign deal a priority level (1-5)",
+            "Schedule discovery call within 48 hours",
+            "Send introduction email with company overview"
+          ],
+          "tools": ["Salesforce CRM", "Company Email Template Library"],
+          "contact_if_help_needed": "Sarah Chen"
+        },
+        {
+          "step": 2,
+          "title": "Discovery and Qualification",
+          "actions": [
+            "Conduct discovery call using BANT framework",
+            "Document customer needs and pain points",
+            "Identify decision makers and budget",
+            "Create preliminary proposal outline"
+          ],
+          "tools": ["Discovery Call Template", "Qualification Checklist"],
+          "contact_if_help_needed": "Sales Manager"
+        },
+        {
+          "step": 3,
+          "title": "Solution Design",
+          "actions": [
+            "Collaborate with Product team on requirements",
+            "Create customized solution proposal",
+            "Prepare pricing based on value delivered",
+            "Get internal approval for any custom features"
+          ],
+          "tools": ["Proposal Template", "Pricing Calculator"],
+          "contact_if_help_needed": "Lisa Thompson (Product)"
+        },
+        {
+          "step": 4,
+          "title": "Proposal and Negotiation",
+          "actions": [
+            "Present proposal to customer",
+            "Address technical questions with Product team",
+            "Negotiate terms within approved parameters",
+            "Get Finance approval for final pricing"
+          ],
+          "tools": ["Presentation Templates", "Negotiation Guidelines"],
+          "contact_if_help_needed": "David Park (Finance)"
+        },
+        {
+          "step": 5,
+          "title": "Contract and Legal Review",
+          "actions": [
+            "Use standard contract template if possible",
+            "Submit non-standard terms to Legal review",
+            "Address any legal concerns or redlines",
+            "Finalize contract language"
+          ],
+          "tools": ["Contract Templates", "Legal Review Request Form"],
+          "contact_if_help_needed": "Michael Rodriguez (Legal)"
+        },
+        {
+          "step": 6,
+          "title": "Close and Handoff",
+          "actions": [
+            "Obtain final signatures via DocuSign",
+            "Process initial payment or PO",
+            "Schedule kickoff call with Customer Success",
+            "Update CRM with closed-won status",
+            "Celebrate the win with the team!"
+          ],
+          "tools": ["DocuSign", "Customer Success Handoff Form"],
+          "contact_if_help_needed": "Customer Success Manager"
+        }
+      ],
+      "typical_timeline": "2-6 weeks for enterprise deals",
+      "success_tips": [
+        "Maintain regular communication with all stakeholders",
+        "Document everything in the CRM",
+        "Involve specialists early in the process",
+        "Always confirm next steps at end of each interaction"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "New Employee Onboarding - Sales",
+      "category": "HR",
+      "description": "First week checklist for new sales team members",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Day 1 - Orientation",
+          "actions": [
+            "Complete HR paperwork",
+            "Get laptop and access credentials",
+            "Meet with manager for role overview",
+            "Review company handbook"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Day 2-3 - Product Training",
+          "actions": [
+            "Complete product overview training",
+            "Shadow product demo calls",
+            "Practice demo in safe environment",
+            "Review case studies and success stories"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Day 4-5 - Sales Process Training",
+          "actions": [
+            "Learn CRM system and workflows",
+            "Review sales methodology and playbooks",
+            "Understand approval processes",
+            "Shadow experienced sales rep on calls"
+          ]
+        }
+      ]
+    }
+  ]
+} 

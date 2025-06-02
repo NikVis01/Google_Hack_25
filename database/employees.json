@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "Sales Manager",
+      "department": "Sales",
+      "email": "sarah.chen@company.com",
+      "expertise": ["Deal closing", "Enterprise sales", "Contract negotiation"],
+      "years_experience": 8,
+      "mentorship_available": true,
+      "contact_for": ["Large enterprise deals", "Contract questions", "Sales strategy"]
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "role": "Legal Counsel",
+      "department": "Legal",
+      "email": "michael.rodriguez@company.com",
+      "expertise": ["Contract law", "Compliance", "Risk assessment"],
+      "years_experience": 12,
+      "mentorship_available": true,
+      "contact_for": ["Contract reviews", "Legal compliance", "Terms and conditions"]
+    },
+    {
+      "id": 3,
+      "name": "Lisa Thompson",
+      "role": "Product Manager",
+      "department": "Product",
+      "email": "lisa.thompson@company.com",
+      "expertise": ["Product roadmap", "Feature specifications", "Customer requirements"],
+      "years_experience": 6,
+      "mentorship_available": true,
+      "contact_for": ["Product features", "Technical specifications", "Roadmap questions"]
+    },
+    {
+      "id": 4,
+      "name": "David Park",
+      "role": "Finance Director",
+      "department": "Finance",
+      "email": "david.park@company.com",
+      "expertise": ["Pricing strategy", "Budget approval", "Financial planning"],
+      "years_experience": 10,
+      "mentorship_available": false,
+      "contact_for": ["Pricing approvals", "Discount authorization", "Payment terms"]
+    },
+    {
+      "id": 5,
+      "name": "Emma Watson",
+      "role": "Sales Representative",
+      "department": "Sales",
+      "email": "emma.watson@company.com",
+      "expertise": ["B2B sales", "Client relations"],
+      "years_experience": 0,
+      "mentorship_available": false,
+      "contact_for": [],
+      "notes": "New hire - Started this week"
+    }
+  ]
+} 

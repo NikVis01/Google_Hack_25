@@ -1,0 +1,75 @@
+{
+  "company": {
+    "name": "TechVision Solutions",
+    "founded": "2015",
+    "headquarters": "San Francisco, CA",
+    "mission": "Empowering businesses with innovative technology solutions that drive growth and efficiency",
+    "values": [
+      "Customer Success",
+      "Innovation",
+      "Integrity",
+      "Collaboration",
+      "Excellence"
+    ],
+    "products": [
+      {
+        "name": "VisionPro Enterprise",
+        "description": "Comprehensive business intelligence and analytics platform",
+        "target_market": "Large enterprises (500+ employees)",
+        "key_features": [
+          "Real-time data visualization",
+          "AI-powered insights",
+          "Custom reporting",
+          "API integrations"
+        ]
+      },
+      {
+        "name": "VisionPro SMB",
+        "description": "Streamlined analytics solution for small and medium businesses",
+        "target_market": "SMBs (50-500 employees)",
+        "key_features": [
+          "Pre-built dashboards",
+          "Easy setup",
+          "Affordable pricing",
+          "Mobile app"
+        ]
+      }
+    ],
+    "departments": [
+      {
+        "name": "Sales",
+        "head": "VP of Sales - Jennifer Martinez",
+        "teams": ["Enterprise Sales", "SMB Sales", "Channel Partners"]
+      },
+      {
+        "name": "Product",
+        "head": "VP of Product - Robert Kim",
+        "teams": ["Product Management", "UX Design", "Product Marketing"]
+      },
+      {
+        "name": "Legal",
+        "head": "General Counsel - Patricia Williams",
+        "teams": ["Contracts", "Compliance", "IP"]
+      },
+      {
+        "name": "Finance",
+        "head": "CFO - James Anderson",
+        "teams": ["Accounting", "FP&A", "Revenue Operations"]
+      }
+    ],
+    "key_differentiators": [
+      "Industry-leading AI capabilities",
+      "99.9% uptime SLA",
+      "24/7 customer support",
+      "No-code customization",
+      "Enterprise-grade security"
+    ],
+    "office_locations": [
+      "San Francisco, CA (HQ)",
+      "New York, NY",
+      "Austin, TX",
+      "London, UK",
+      "Singapore"
+    ]
+  }
+} 
