@@ -1,4 +1,4 @@
-# 🧠 Company AI Assistant — Google Hackathon 2025
+# 🧠 Company AI Learning Assistant — Google Hackathon 2025
 
 A lightweight, FastAPI-powered backend paired with a React frontend, designed as a **company employee helper bot**. Built during the 2025 Google Hackathon, this project answers company-specific questions using structured documents and memory.
 
