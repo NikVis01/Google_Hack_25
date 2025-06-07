@@ -10,7 +10,6 @@ A lightweight, FastAPI-powered backend paired with a React frontend, designed as
 - ✅ FastAPI backend with structured endpoints
 - ✅ Frontend chat interface for querying the assistant
 - ✅ Local run support for rapid development
-- ✅ Minimal setup; no external dependencies beyond pip/npm
 
 ## 🛠️ Tech Stack
 
