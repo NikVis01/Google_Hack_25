@@ -10,6 +10,7 @@ A lightweight, FastAPI-powered backend paired with a React frontend, designed as
 - ✅ FastAPI backend with structured endpoints
 - ✅ Frontend chat interface for querying the assistant
 - ✅ Local run support for rapid development
+- + Monolith shitty ass goofy ass backend file (one file lol) less is more? More is more.
 
 ## 🛠️ Tech Stack
 
